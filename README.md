@@ -1,22 +1,15 @@
-# EcoSearch
+# EcoSearch (Archived)
 
-## Powering Tomorrow
-Search the web, plant trees.
+## Overview
+EcoSearch was a project developed during Buildspace S5. It aimed to create a sustainable search engine where users could search the web while contributing to environmental efforts, specifically by planting trees with every search.
 
-## Introduction
-EcoSearch is launching soon! We are excited to introduce a sustainable search engine that helps you make a difference with every search. By using EcoSearch, not only can you find the information you need, but you'll also contribute to planting trees around the world.
+## Project Status
+This project has been archived as it was completed as part of the Buildspace S5 program.
 
 ## Features
-- **Sustainable Searching**: Every search contributes to planting trees.
-- **User-Friendly Interface**: Easy to use, providing quick and relevant search results.
-- **Expert Team**: Driven by top green energy experts and innovators in sustainability.
-
-## Installation
-This project is currently in the pre-launch phase. Sign up now to be the first to know when we go live:
-- [Join the Waitlist](#) (Note: You will need to provide your own action URL for the form)
-
-## Usage
-Once live, use EcoSearch just like any other search engine but with the added benefit of supporting environmental initiatives with every query.
+- **Sustainable Searching**: Users contribute to tree planting with every search made on the platform.
+- **User-Friendly Interface**: Designed for ease of use, delivering relevant search results while supporting sustainability.
+- **Expert-Led Development**: Developed by a team of experts in green energy and technology.
 
 ## Meet the Team
 - **Gabriel Dalton**: Founder
@@ -26,10 +19,8 @@ Once live, use EcoSearch just like any other search engine but with the added be
 - **Sungwoo Cho**: Head of AI
 - **Aashita Sharma**: Head of Design
 
-Our team includes top experts in green energy and sustainability, committed to driving innovation in eco-friendly technologies.
-
-## Contributing
-Interested in contributing to EcoSearch? We value community support and contributions. Please reach out to us for more information on how you can help!
+## Project Details
+EcoSearch was a concept project powered by Oasis of Change Inc., developed to explore the potential of integrating environmental sustainability with everyday online activities like web searching.
 
 ## License
 This project is copyrighted under Oasis of Change Inc., 2024.
