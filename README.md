@@ -14,10 +14,8 @@ This project has been archived as it was completed as part of the Buildspace S5 
 ## Meet the Team
 - **Gabriel Dalton**: Founder
 - **Hemit Patel**: Head of Web Development
-- **Zen Blocka**: Head of Quality Assurance
 - **Glauber Bannwart**: Head of Search Engine
 - **Sungwoo Cho**: Head of AI
-- **Aashita Sharma**: Head of Design
 
 ## Project Details
 EcoSearch was a concept project powered by Oasis of Change Inc., developed to explore the potential of integrating environmental sustainability with everyday online activities like web searching.
